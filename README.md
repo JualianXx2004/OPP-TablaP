@@ -1,2 +1,2 @@
 # OPP-TablaP
-Programa de OPP sobre la tabla periódica 
+Programa basado en Programacion Orientada a Objetos sombre la tabla periodica donde hay diferentes elementos que tiene algunas de sus caracteristicas de cada uno, esto con el fin de saber como son cada uno de estos elementos y sabiendo esto se podria comprobar para que si estos elementos se pueden mezclar y formar unos nuevos con ellos o por otra parte conocer si al juntor algunos de ellos esto podria ser muy toxico para el ser humano y para el mediuo ambiente. 
